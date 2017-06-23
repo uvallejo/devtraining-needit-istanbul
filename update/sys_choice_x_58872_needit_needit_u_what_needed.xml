@@ -24,6 +24,25 @@
             <dependent_value/>
             <element>u_what_needed</element>
             <hint/>
+            <inactive>false</inactive>
+            <label>Human Resource 2</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-21 19:59:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f375574dba33200a1d5fbefbf96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-21 19:59:04</sys_updated_on>
+            <value>Human Resource 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
             <inactive>true</inactive>
             <label>Your Department Choice 1</label>
             <language>en</language>
@@ -180,7 +199,7 @@
             <sys_created_on>2017-01-26 19:39:58</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_id>583fc4e2db133200a1d5fbefbf96197c</sys_id>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_mod_count>4</sys_mod_count>
             <sys_name>u_what_needed</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
@@ -188,7 +207,7 @@
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
             <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-16 00:07:09</sys_updated_on>
+            <sys_updated_on>2017-06-21 19:59:04</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>
